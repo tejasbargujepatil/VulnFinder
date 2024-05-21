@@ -118,3 +118,4 @@ This project is licensed under the [MIT License](LICENSE).
 [![Instagram](https://img.shields.io/badge/Instagram-Tejas_Barguje_Patil-9cf?logo=instagram)](https://www.instagram.com/Tejas_Barguje_Patil/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas_Barguje_Patil-blue?logo=linkedin)](https://www.linkedin.com/in/tejas-barguje-79b51428a/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Tejas_Barguje_Patil-25D366?logo=whatsapp)](https://wa.me/918087147136)
+[![Contact](https://img.shields.io/badge/Contact-Tejas_Barguje_Patil-red?logo=gmail)](mailto:hackersdaddy826@gmail.com)
