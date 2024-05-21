@@ -116,5 +116,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 ## Contact Info
 [![Instagram](https://img.shields.io/badge/Instagram-Tejas_Barguje_Patil-9cf?logo=instagram)](https://www.instagram.com/Tejas_Barguje_Patil/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas_Barguje_Patil-blue?logo=linkedin)](https://www.linkedin.com/in/tejasbargujepatil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas_Barguje_Patil-blue?logo=linkedin)](https://www.linkedin.com/in/tejas-barguje/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Tejas_Barguje_Patil-25D366?logo=whatsapp)](https://wa.me/918087147136)
